@@ -10,4 +10,4 @@ Los pseudodragones pueden morder, pero su arma principal es el veneno que son ca
 En la sociedad moderna de [Khorvaire](Khorvaire) los pseudodragones son vistos como mascotas exóticas que solo pueden permitirse la élite o los practicantes más acaudalados, con precios que rondan los 2d12 platinos.
 
 
-[^1]: https://forgottenrealms.fandom.com/wiki/Pseudodragon
+[1]: <https://forgottenrealms.fandom.com/wiki/Pseudodragon>

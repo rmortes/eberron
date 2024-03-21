@@ -36,19 +36,19 @@ De tonos azulados muy oscuros, prácticamente negros,  estás Esquirlas solo se 
 |Superior|4d4 × 500 gp|5'000 gp|
 
 # Más información sobre su obtención
-http://eberronunlimited.wikidot.com/dragonshard
+<http://eberronunlimited.wikidot.com/dragonshard>
 
 # Tabla detalladas de precios
 ![[Precios Esquirlas de Dragón.png]]
 
 # Propiedades físicas y más usos
-https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragonshard-material
+<https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragonshard-material>
 
 # Sintonización
 ![[Sincronización Esquirlas de Dragón.pdf]]
 
-[^1]: https://eberron.fandom.com/wiki/Dragonshard
-[^2]: http://klubbsaga2015.wikidot.com/dragonshard
-[^3]: http://eberronunlimited.wikidot.com/dragonshard
-[^4]: https://www.reddit.com/r/Eberron/comments/moap1j/are_dragonshards_a_finite_or_infinite_source_of/
-[^5]: https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragonshard-material
+[1]: <https://eberron.fandom.com/wiki/Dragonshard>
+[2]: <http://klubbsaga2015.wikidot.com/dragonshard>
+[3]: <http://eberronunlimited.wikidot.com/dragonshard>
+[4]: <https://www.reddit.com/r/Eberron/comments/moap1j/are_dragonshards_a_finite_or_infinite_source_of/>
+[5]: <https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragonshard-material>
