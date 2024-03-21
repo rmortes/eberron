@@ -551,7 +551,7 @@ table {
 
   &,
   * {
-    border-color: #6d6d6d;
+    border: solid 1px #6d6d6d;
     border-collapse: collapse;
   }
 
