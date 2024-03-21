@@ -4,7 +4,7 @@
 ||30ft|9m|
 |Peso|1oz|30g|
 ||1lb|0.5kg|
-|Moneda|1cp / cobre|1€|
+|Moneda|1cp / cobre|[1€][1]|
 ||1sp / plata|10€|
 ||1gp / oro|100€|
 ||1pp / platino|1000€|
