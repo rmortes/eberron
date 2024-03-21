@@ -564,8 +564,12 @@ table {
   }
 }
 
-img,
-iframe {
+img {
   width: 100%;
   height: auto;
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 1;
 }
