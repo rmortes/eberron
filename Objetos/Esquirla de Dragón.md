@@ -1,3 +1,4 @@
+#Loot
 ![[Esquirlas de Dragón.png]]
 Las Esquirlas tienen el aspecto de una roca cristalina con trazas de color suspendidas en su interior. El patrón de estas trazas es reminiscente de las [Marcas del Dragón](Marca_del_Dragón), aunque no se ha encontrado ninguna piedra que contenga ningún patrón exacto en su interior. La naturaleza pulsante del color de estas trazas las hace parecer venas, dando la sensación de que el cristal está, de alguna manera, vivo. 
 

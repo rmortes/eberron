@@ -1,7 +1,9 @@
-![[Pseudodragón.png]]
-Los pseudodragones son pequeñas criaturas dracónidas. A pesar de su nombre, están más emparentados con los [Guivernos](Guiverno) que con los [Dragones Verdaderos](Dragón_Verdadero). Su cuerpo mide aproximadamente 1ft (30cm) de largo, y pesan sobre 3kg. Aunque su apariencia es rojiza con tonos terrosos, pueden exhibir limitadas habilidades similares a las de los camaleones.
+#Familiar
 
-Los pseudodragones son criaturas sorprendentemente inteligentes, entrando fácilmente en la categoría de "Ser consciente". Son capaces de comunicarse telepáticamente en [Común](Común) o [Dracónido](Dracónido), y de forma más limitada mediante vocalización y gruñidos alimalísticos, aunque su capacidad de conversación es limitada, comparable a la de un niño humano de 5-6 años de edad.
+![[Pseudodragón.png]]
+Los pseudodragones son pequeñas criaturas dracónidas. A pesar de su nombre, están más emparentados con los [Guivernos](Guiverno.md) que con los [Dragones Verdaderos](Dragón%20Verdadero.md). Su cuerpo mide aproximadamente 1ft (30cm) de largo, y pesan sobre 3kg. Aunque su apariencia es rojiza con tonos terrosos, pueden exhibir limitadas habilidades similares a las de los camaleones.
+
+Los pseudodragones son criaturas sorprendentemente inteligentes, entrando fácilmente en la categoría de "Ser consciente". Son capaces de comunicarse telepáticamente en [Común](Común.md) o [Dracónido](Dracónido.md), y de forma más limitada mediante vocalización y gruñidos alimalísticos, aunque su capacidad de conversación es limitada, comparable a la de un niño humano de 5-6 años de edad.
 
 Su personalidad se podría describir como la mezcla entre la de un cuervo y un gato. Son criaturas generalmente silvestres, viviendo principalmente en bosques templados, aunque suelen estar abiertos a vincularse con practicantes de lo arcano.
 
