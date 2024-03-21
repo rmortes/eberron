@@ -114,7 +114,7 @@ a:hover {
   border-left: 10px solid var(--border-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
+  quotes: "\201C" "\201D" "\2018" "\2019";
 }
 
 .main-content article blockquote:before {
@@ -136,7 +136,7 @@ a:hover {
 
 /* || Layout */
 
-.site-name {  
+.site-name {
   align-items: center;
   display: flex;
   min-height: var(--site-name-height);
@@ -186,7 +186,7 @@ a:hover {
 .sidebar summary {
   color: var(--link-color);
   cursor: pointer;
-  opacity: 0.75;  
+  opacity: 0.75;
   padding: 4px 0 4px var(--gutter-size);
   transition: opacity 150ms ease-in;
 }
@@ -407,7 +407,7 @@ a:hover {
   margin-left: 8px;
 }
 
-.toc > ul {
+.toc>ul {
   margin-left: 0;
 }
 
@@ -440,7 +440,7 @@ a:hover {
 .network-graph a.current,
 .network-graph a:hover {
   z-index: 8000;
-} 
+}
 
 .network-graph a.current circle {
   fill: var(--graph-circle-active-color);
@@ -518,7 +518,7 @@ a:hover {
     display: flex;
     max-width: calc(((100vw - var(--main-area-width))) - (100vw - (var(--main-area-width) + var(--sidebar-width))) / 2);
     min-width: calc(((100vw - var(--main-area-width))) - (100vw - (var(--main-area-width) + var(--sidebar-width))) / 2);
-}
+  }
 
   .sidebar-wrapper {
     max-width: var(--sidebar-width);
@@ -542,5 +542,24 @@ a:hover {
 @media screen and (min-width: 1400px) {
   :root {
     --main-area-width: 1160px;
+  }
+}
+
+/* Custom css -- Here be dragons! ᵃⁿᵈ ᵈᵘⁿᵍᵉᵒⁿˢ */
+
+table {
+
+  &,
+  * {
+    border-color: #6d6d6d;
+    border-collapse: collapse;
+  }
+
+  th {
+    padding: 2px 12px;
+  }
+
+  td {
+    padding: 2px 8px;
   }
 }
