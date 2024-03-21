@@ -9,4 +9,4 @@
 ||1gp / oro|100€|
 ||1pp / platino|1000€|
 
-[1]: https://www.reddit.com/r/DnD/comments/9e02c4/5e_the_approximate_value_of_one_gp_in_usd/
+[1]: [](https://www.reddit.com/r/DnD/comments/9e02c4/5e_the_approximate_value_of_one_gp_in_usd/)
