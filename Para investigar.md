@@ -1,1 +1,0 @@
-1. <http://dnd5e.wikidot.com/wondrous-items:spellshard>
