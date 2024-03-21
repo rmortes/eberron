@@ -1,0 +1,1 @@
+Sean bienvenidos a esta página que contiene mis notas de la campaña de Eberron que me gustaría jugar algún año de estos. No se me ocurre que más poner aquí, ya pensaré en algo
