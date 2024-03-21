@@ -47,8 +47,8 @@ https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragon
 # Sintonización
 ![[Sincronización Esquirlas de Dragón.pdf]]
 
-[1]: https://eberron.fandom.com/wiki/Dragonshard
-[2]: http://klubbsaga2015.wikidot.com/dragonshard
-[3]: http://eberronunlimited.wikidot.com/dragonshard
-[4]: https://www.reddit.com/r/Eberron/comments/moap1j/are_dragonshards_a_finite_or_infinite_source_of/
-[5]: https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragonshard-material
+[^1]: https://eberron.fandom.com/wiki/Dragonshard
+[^2]: http://klubbsaga2015.wikidot.com/dragonshard
+[^3]: http://eberronunlimited.wikidot.com/dragonshard
+[^4]: https://www.reddit.com/r/Eberron/comments/moap1j/are_dragonshards_a_finite_or_infinite_source_of/
+[^5]: https://www.worldanvil.com/w/eberron-s-darkest-secrets-yikghigi/a/eberron-dragonshard-material
