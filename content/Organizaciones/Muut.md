@@ -1,0 +1,1 @@
+Osgos en Dura Inferior que han estado “protegiendo” Puerta de Malleon durante décadas (recientemente se alinearon con Daask, pero su enfoque es su distrito de origen)

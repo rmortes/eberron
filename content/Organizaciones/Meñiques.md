@@ -1,0 +1,1 @@
+Carteristas infantiles activos en Dura Medio (sus líderes son medianos adultos libremente aliados con el Clan Boromar)

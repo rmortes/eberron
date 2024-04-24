@@ -1,0 +1,3 @@
+![[Icono.svg]]
+
+Nadie sabe quien se esconde tras el legendario Gabinete de las Caras. De hecho, los pocos que conocen su existencia asumen que no es más que cosa de cuentos infantiles, narrados para que los niños pequeños no hablen con desconocidos o salgan solos de casa. Pero si hay una cosa en la que todas estas fábulas coinciden, extrañamente, es que cualquiera podría ser parte del Gabinete. Absolutamente cualquiera

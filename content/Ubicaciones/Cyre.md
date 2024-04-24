@@ -1,0 +1,1 @@
+Una de las [[Cinco Naciones]], destruída el [[Día del Luto]]

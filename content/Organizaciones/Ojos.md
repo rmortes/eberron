@@ -1,0 +1,1 @@
+Colección de individuos extraños que pintan ojos simbólicos en su ropa y armadura y afirman ver cosas que otros no pueden (de hecho, son un culto dedicado al daelkyr Belashyrra y sirven a un contemplador oculto)

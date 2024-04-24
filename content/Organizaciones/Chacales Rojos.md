@@ -1,0 +1,1 @@
+Principalmente cambiantes y semiorcos que viven en las alcantarillas debajo de Menthis y chocan con cualquiera que invada su territorio

@@ -1,0 +1,1 @@
+Veteranos brelios que ven a Cyr y ex soldados de otras naciones como enemigos.

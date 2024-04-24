@@ -1,0 +1,1 @@
+Goblins que viven en las alcantarillas debajo del Desembarco de Tavick y evitan la violencia, usando el sigilo y el conocimiento de las alcantarillas para lograr sus robos.
