@@ -1,0 +1,87 @@
+{
+  "bodyTypeName": "male",
+  "url": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_taupe&head=Human_male_plump_taupe&sex=male&shadow=none&animation=any&mustache=none&beard=Winter_Beard_ash&wrinkes=Wrinkles_taupe&hair=Balding_ash&hat=Formal_black&facial_eyes=Halfmoon_Glasses_black&jacket=none&vest=Vest_gray_striped&clothes=Longsleeve_sky&jacket_collar=none&legs=Pantaloons_formal_striped&shoes=Shoes_brown",
+  "spritesheets": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/spritesheets/",
+  "version": 1,
+  "datetime": "17/6/2024, 12:59:53",
+  "credits": "Authors: bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike), ??, ElizaWy, JaidynReiman, Johannes Sjölund (wulax), Michael Whitlock (bigbeargames), Thane Brimhall (pennomi), laetissima, Nila122\n\n- body/bodies/male/taupe.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. see details at https://opengameart.org/content/lpc-character-bases; 'Thick' Male Revised Run/Climb by JaidynReiman (based on ElizaWy's LPC Revised)\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - https://opengameart.org/content/lpc-male-jumping-animation-by-durrani\n    - https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle\n    - https://opengameart.org/content/lpc-revised-character-basics\n\n- head/heads/human/male_plump/taupe.png: by Stephen Challener (Redshrike), ??. License(s): CC-BY-SA 3.0, GPL 3.0. original head by Redshrike; plump version by ??\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-folk\n\n- head/wrinkles/taupe.png: by bluecarrot16. License(s): CC0. \n\n- beards/beard/winter/male/ash.png: by bluecarrot16. License(s): CC0. \n    - https://opengameart.org/content/lpc-santa\n\n- hair/balding/adult/ash.png: by ElizaWy. License(s): OGA-BY 3.0. \n    - https://opengameart.org/content/lpc-hair\n\n- hat/formal/black.png: by bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-gentleman\n\n- facial/glasses/halfmoon/adult/black.png: by ElizaWy. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Head%20Accessories\n\n- torso/clothes/longsleeve/longsleeve/male/sky.png: by JaidynReiman, Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. original by wulax, recolors and cleanup by JaidynReiman, further recolors by bluecarrot16\n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - http://opengameart.org/content/lpc-clothing-updates\n\n- torso/clothes/vest/male/gray_striped.png: by Michael Whitlock (bigbeargames), bluecarrot16, Thane Brimhall (pennomi), laetissima. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-2-characters\n\n- legs/pantaloons/male/formal_striped.png: by Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0,, GPL 2.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-pirates\n    - https://opengameart.org/content/more-lpc-clothes-and-hair\n\n- feet/shoes/male/brown.png: by bluecarrot16, Johannes Sjölund (wulax). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - http://opengameart.org/content/lpc-clothing-updates",
+  "layers": [
+    {
+      "fileName": "body/bodies/male/taupe.png",
+      "zPos": 10,
+      "parentName": "body",
+      "name": "Body color",
+      "variant": "taupe"
+    },
+    {
+      "fileName": "feet/shoes/male/brown.png",
+      "zPos": 15,
+      "parentName": "shoes",
+      "name": "Shoes",
+      "variant": "brown"
+    },
+    {
+      "fileName": "legs/pantaloons/male/formal_striped.png",
+      "zPos": 20,
+      "parentName": "legs",
+      "name": "Pantaloons",
+      "variant": "formal_striped"
+    },
+    {
+      "fileName": "torso/clothes/longsleeve/longsleeve/male/sky.png",
+      "zPos": 35,
+      "parentName": "clothes",
+      "name": "Longsleeve",
+      "variant": "sky"
+    },
+    {
+      "fileName": "torso/clothes/vest/male/gray_striped.png",
+      "zPos": 45,
+      "parentName": "vest",
+      "name": "Vest",
+      "variant": "gray striped"
+    },
+    {
+      "fileName": "head/heads/human/male_plump/taupe.png",
+      "zPos": 100,
+      "parentName": "head",
+      "name": "Human male plump",
+      "variant": "taupe"
+    },
+    {
+      "fileName": "head/wrinkles/taupe.png",
+      "zPos": 102,
+      "parentName": "wrinkes",
+      "name": "Wrinkles",
+      "variant": "taupe"
+    },
+    {
+      "fileName": "beards/beard/winter/male/ash.png",
+      "zPos": 110,
+      "parentName": "beard",
+      "name": "Winter Beard",
+      "variant": "ash"
+    },
+    {
+      "fileName": "facial/glasses/halfmoon/adult/black.png",
+      "zPos": 115,
+      "parentName": "facial_eyes",
+      "name": "Halfmoon Glasses",
+      "variant": "black"
+    },
+    {
+      "fileName": "hair/balding/adult/ash.png",
+      "zPos": 120,
+      "parentName": "hair",
+      "name": "Balding",
+      "variant": "ash"
+    },
+    {
+      "fileName": "hat/formal/black.png",
+      "zPos": 130,
+      "parentName": "hat",
+      "name": "Formal",
+      "variant": "black"
+    }
+  ]
+}
