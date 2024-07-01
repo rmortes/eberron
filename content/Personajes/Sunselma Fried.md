@@ -1,0 +1,1 @@
+La Ex-general del Ejército de Defensa de [[Karrnath]], y la víctima del [[Atentado en Sharn]]. Tía biológica de [[Vede Fried]], y antiguamente asociada con el [[Gabinete de las Caras]]
