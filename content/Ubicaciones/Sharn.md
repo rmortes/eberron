@@ -44,6 +44,10 @@ Debido a que la tinta apenas está seca en el [[Tratado de Tronofirme]] y las r
 
 Los refugiados Cyr han llenado el distrito de [[Muros Altos]] en el [[Desembarco de Tavick]] inferior más allá de su capacidad, y Sharn también alberga a un número significativo de refugiados de otras partes de [[Breland]], personas cuyas casas y aldeas fueron destruidas durante la guerra y que han venido a Sharn en búsqueda de nuevas vidas. La ciudad también tiene su parte de otras personas dañadas durante la guerra, soldados y civiles con lesiones físicas o psicológicas graves. Es muy probable que todas estas personas se encuentren en los niveles inferiores. No son solo pobres; están sufriendo, y podrían buscar venganza contra aquellos a quienes culpan por su dolor.
 
+## Alcaldía y Liderazgo
+
+La ciudad está liderada, al menos técnicamente, por su Alcalde o Alcaldesa. La Alcaldía está reservada a miembros comunes de la sociedad. Desde las últimas reformas, se prohibió que miembros de organizaciones influyentes como gremios o nobles pudiesen aspirar a Alcalde. Por otro lado, están más que invitados a formar parte del Consejo, un grupo de personas, influyentes o no, residentes de Sharn, que aconsejan al alcalde y pueden tomar decisiones en su nombre cuando son autorizados para ello. Las sesiones del Consejo son celebradas en la Cámara del Consejo, un edificio señorial y burocrático en el [[Capitolio]], con el paso abierto a cualquier ciudadano... Que pueda permitirse llegar. Sharn ha estado gobernada por el Alcalde [[Bright Jonestar]] durante los últimos 6 años.
+
 # Puentes y Balcones
 
 Como corresponde a la Ciudad de las Torres, Sharn también es una ciudad de puentes y balcones. Estas carreteras y salientes pueden ser extremadamente estrechos o cómodamente anchos. Aunque la mayoría de ellos están delimitados por paredes o barandas, siempre existe la posibilidad de que durante tu tiempo en Sharn, alguien que conozcas o tú se pasen del borde. Entonces, ¿cómo enfrentan los residentes este riesgo?
